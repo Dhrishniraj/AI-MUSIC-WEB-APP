@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+.dj-heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 23px;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+button{
+    width: 130px;
+    font-size: 25px !important;
+}
+.div_speed_img, .div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+.div-speed{
+    float: left;
+}
+.div-volume{
+    float: right;
+}
+#speed, #volume{
+    font-size: 23px;
+    margin: 15px;
+}
+canvas{
+    border: 2px solid black;
+}
